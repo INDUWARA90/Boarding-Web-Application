@@ -6,8 +6,10 @@ function Header() {
           <h1>LOGO</h1>
 
           <nav>
-              <ul className=''>
-                <li>Home</li>
+              <ul className='flex gap-5 list-none'>
+                <li></li>
+                <li></li>
+                <li></li>
               </ul>
           </nav>
     </div>
